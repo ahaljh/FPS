@@ -26,3 +26,17 @@ depth(leaf)
 
 // Example 3.28
 map(root)(x => x+1)
+
+// Example 3.29
+size2(leaf)
+size2(branch1)
+size2(root)
+
+maximum2(root)
+maximum2(branch1)
+
+depth(root)
+depth(branch1)
+depth(leaf)
+
+map2(root)(x => x+1)
