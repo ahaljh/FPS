@@ -1,2 +1,2 @@
-# FPS
+# FPiS
 Functional Programming in Scala
